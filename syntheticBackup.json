@@ -1,0 +1,65 @@
+{
+    "policy": {
+        "name": "myKey",
+        "keys": {
+            "1": {
+                "key": "5/xYXHtPSa6IyOvEDbE264zbEs/SHSu+X+MoACxs800=",
+                "hmac_key": "j3wiaAuWdWKBnqN6BbTedxXAMy5VTc+0sspOvS764EY=",
+                "time": "2021-11-19T16:40:46.1188405Z",
+                "ec_x": null,
+                "ec_y": null,
+                "ec_d": null,
+                "rsa_key": null,
+                "public_key": "",
+                "convergent_version": 0,
+                "creation_time": 1637340046
+            }
+        },
+        "derived": false,
+        "kdf": 0,
+        "convergent_encryption": false,
+        "exportable": true,
+        "min_decryption_version": 1,
+        "min_encryption_version": 0,
+        "latest_version": 1,
+        "archive_version": 1,
+        "archive_min_version": 0,
+        "min_available_version": 0,
+        "deletion_allowed": false,
+        "convergent_version": 0,
+        "type": 0,
+        "backup_info": {
+            "time": "2021-11-19T17:42:55.9999914Z",
+            "version": 1
+        },
+        "restore_info": null,
+        "allow_plaintext_backup": true,
+        "version_template": "",
+        "storage_prefix": ""
+    },
+    "archived_keys": {
+        "keys": [{
+            "key": null,
+            "hmac_key": null,
+            "time": "0001-01-01T00:00:00Z",
+            "ec_x": null,
+            "ec_y": null,
+            "ec_d": null,
+            "rsa_key": null,
+            "public_key": "",
+            "convergent_version": 0,
+            "creation_time": 0
+        }, {
+            "key": "5/xYXHtPSa6IyOvEDbE264zbEs/SHSu+X+MoACxs800=",
+            "hmac_key": "j3wiaAuWdWKBnqN6BbTedxXAMy5VTc+0sspOvS764EY=",
+            "time": "2021-11-19T16:40:46.1188405Z",
+            "ec_x": null,
+            "ec_y": null,
+            "ec_d": null,
+            "rsa_key": null,
+            "public_key": "",
+            "convergent_version": 0,
+            "creation_time": 1637340046
+        }]
+    }
+}

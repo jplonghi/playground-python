@@ -1,0 +1,7 @@
+{
+    "keys": {
+      "1": "j3wiaAuWdWKBnqN6BbTedxXAMy5VTc+0sspOvS764EY="
+    },
+    "type": "aes256-gcm96",
+    "name": "myKey"
+  }
